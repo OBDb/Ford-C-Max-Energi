@@ -1,0 +1,11 @@
+command_id: 7E2.7EA.224851
+test_cases:
+- expected_values:
+    CMAXE_EVSE_CHG_RAW_CNT: 0
+  response: 7EA0462485100
+- expected_values:
+    CMAXE_EVSE_CHG_RAW_CNT: 1
+  response: 7EA0462485101
+- expected_values:
+    CMAXE_EVSE_CHG_RAW_CNT: 2
+  response: 7EA0462485102

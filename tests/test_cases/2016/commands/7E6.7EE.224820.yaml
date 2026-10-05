@@ -1,0 +1,8 @@
+command_id: 7E6.7EE.224820
+test_cases:
+- expected_values:
+    CMAXE_GEN_COIL_T_7E6: 30.6
+  response: 7EE056248200011
+- expected_values:
+    CMAXE_GEN_COIL_T_7E6: 140.4
+  response: 7EE05624820004E

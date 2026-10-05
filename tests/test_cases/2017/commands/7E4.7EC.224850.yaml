@@ -1,0 +1,11 @@
+command_id: 7E4.7EC.224850
+test_cases:
+- expected_values:
+    CMAXE_HIGH_V_CHARGER_OUTPUT: 0
+  response: 7EC056248500000
+- expected_values:
+    CMAXE_HIGH_V_CHARGER_OUTPUT: 200
+  response: 7EC0562485000C8
+- expected_values:
+    CMAXE_HIGH_V_CHARGER_OUTPUT: 810
+  response: 7EC05624850032A

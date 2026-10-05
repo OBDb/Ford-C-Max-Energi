@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220707
+test_cases:
+- expected_values:
+    CMAXE_GRILL_SHUT_DC: 49.80392
+  response: 7E8046207077F
+- expected_values:
+    CMAXE_GRILL_SHUT_DC: 50.98039
+  response: '7E80462070782'
+- expected_values:
+    CMAXE_GRILL_SHUT_DC: 51.76471
+  response: '7E80462070784'
+- expected_values:
+    CMAXE_GRILL_SHUT_DC: 99.60784
+  response: 7E804620707FE

@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2203B9
+test_cases:
+- expected_values:
+    CMAXE_FAN_SPD_DES: 43.05791
+  response: 7E8056203B9371D
+- expected_values:
+    CMAXE_FAN_SPD_DES: 53.91012
+  response: 7E8056203B94501
+- expected_values:
+    CMAXE_FAN_SPD_DES: 54.62425
+  response: 7E8056203B945EB
+- expected_values:
+    CMAXE_FAN_SPD_DES: 68.93721
+  response: 7E8056203B9583D

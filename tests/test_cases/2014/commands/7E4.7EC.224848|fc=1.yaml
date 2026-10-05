@@ -1,0 +1,11 @@
+command_id: 7E4.7EC.224848|fc=1
+test_cases:
+- expected_values:
+    CMAXE_HVBAT_KWH: 0.774
+  response: 7EC056248480183
+- expected_values:
+    CMAXE_HVBAT_KWH: 3.064
+  response: 7EC0562484805FC
+- expected_values:
+    CMAXE_HVBAT_KWH: 3.074
+  response: 7EC056248480601

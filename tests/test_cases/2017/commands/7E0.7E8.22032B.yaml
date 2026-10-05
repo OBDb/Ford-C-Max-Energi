@@ -1,0 +1,43 @@
+command_id: 7E0.7E8.22032B
+test_cases:
+- expected_values:
+    CMAXE_ACC_POS: 0
+  response: 7E80462032B00
+- expected_values:
+    CMAXE_ACC_POS: 0
+  response: |-
+    7E80462032B00
+    7E803410400
+- expected_values:
+    CMAXE_ACC_POS: 0
+  response: |-
+    7E80462032B00
+    7E803410B5F
+- expected_values:
+    CMAXE_ACC_POS: 0
+  response: |-
+    7E80462032B00
+    7E803410D24
+- expected_values:
+    CMAXE_ACC_POS: 0
+  response: |-
+    7E80462032B00
+    7E80341112C
+- expected_values:
+    CMAXE_ACC_POS: 0
+  response: |-
+    7E80462032B00
+    7E804410C0000
+- expected_values:
+    CMAXE_ACC_POS: 18.5
+  response: |-
+    7E80462032B25
+    7E804410C0000
+- expected_values:
+    CMAXE_ACC_POS: 23
+  response: |-
+    7E80462032B2E
+    7E803410D2F
+- expected_values:
+    CMAXE_ACC_POS: 99.5
+  response: 7E80462032BC7

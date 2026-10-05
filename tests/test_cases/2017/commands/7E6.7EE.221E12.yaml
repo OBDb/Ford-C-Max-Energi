@@ -1,0 +1,143 @@
+command_id: 7E6.7EE.221E12
+test_cases:
+- expected_values:
+    CMAXE_GEAR_CMD: L
+  response: |-
+    7E804621E1201
+    7EA04621E1214
+    7EE04621E1214
+- expected_values:
+    CMAXE_GEAR_CMD: D
+  response: |-
+    7E804621E1201
+    7EA04621E1228
+    7EE04621E1228
+    7E804410C0000
+    7EC04410C0000
+    7EE04410C0000
+- expected_values:
+    CMAXE_GEAR_CMD: D
+  response: |-
+    7E804621E1201
+    7EA04621E1228
+    7EE04621E1228
+    7EC03410D0F
+    7E803410D0F
+    7EE03410D10
+- expected_values:
+    CMAXE_GEAR_CMD: R
+  response: |-
+    7E804621E1201
+    7EA04621E123C
+    7EE04621E123C
+- expected_values:
+    CMAXE_GEAR_CMD: P
+  response: |-
+    7E804621E1201
+    7EA04621E1246
+    7EE04621E1246
+- expected_values:
+    CMAXE_GEAR_CMD: D
+  response: |-
+    7E804621E1201
+    7EE04621E1228
+    7EA04621E1228
+- expected_values:
+    CMAXE_GEAR_CMD: L
+  response: |-
+    7EA04621E1214
+    7E804621E1201
+    7EE04621E1214
+- expected_values:
+    CMAXE_GEAR_CMD: L
+  response: |-
+    7EA04621E1214
+    7EE04621E1214
+    7E804621E1201
+- expected_values:
+    CMAXE_GEAR_CMD: D
+  response: |-
+    7EA04621E1228
+    7E804621E1201
+    7EE04621E1228
+    7E803410F3F
+- expected_values:
+    CMAXE_GEAR_CMD: D
+  response: |-
+    7EA04621E1228
+    7EE04621E1228
+- expected_values:
+    CMAXE_GEAR_CMD: D
+  response: |-
+    7EA04621E1228
+    7EE04621E1228
+    7E804621E1201
+    7E803410D00
+    7EC03410D00
+    7EE03410D00
+- expected_values:
+    CMAXE_GEAR_CMD: D
+  response: |-
+    7EA04621E1228
+    7EE04621E1228
+    7E804621E1201
+    7E80341112C
+- expected_values:
+    CMAXE_GEAR_CMD: D
+  response: |-
+    7EA04621E1228
+    7EE04621E1228
+    7EC04410C0000
+    7EE04410C0000
+    7E804410C0000
+- expected_values:
+    CMAXE_GEAR_CMD: P
+  response: |-
+    7EA04621E1246
+    7E804621E1201
+    7EE04621E1246
+- expected_values:
+    CMAXE_GEAR_CMD: L
+  response: 7EE04621E1214
+- expected_values:
+    CMAXE_GEAR_CMD: L
+  response: |-
+    7EE04621E1214
+    7EA04621E1214
+    7E804621E1201
+- expected_values:
+    CMAXE_GEAR_CMD: D
+  response: 7EE04621E1228
+- expected_values:
+    CMAXE_GEAR_CMD: D
+  response: |-
+    7EE04621E1228
+    7E804621E1201
+    7EA04621E1228
+    7E803410B5E
+- expected_values:
+    CMAXE_GEAR_CMD: D
+  response: |-
+    7EE04621E1228
+    7EA04621E1228
+- expected_values:
+    CMAXE_GEAR_CMD: D
+  response: |-
+    7EE04621E1228
+    7EA04621E1228
+    7E804621E1201
+    7EC04410C0000
+    7EE04410C0000
+    7E804410C0000
+- expected_values:
+    CMAXE_GEAR_CMD: P
+  response: 7EE04621E1246
+- expected_values:
+    CMAXE_GEAR_CMD: P
+  response: |-
+    7EE04621E1246
+    7EA04621E1246
+    7E804621E1201
+    7EC04410C0000
+    7EE04410C0000
+    7E804410C0000

@@ -1,0 +1,46 @@
+command_id: 7E4.7EC.22480D|fc=1
+test_cases:
+- expected_values:
+    CMAXE_HVBAT_V: 273.92
+  response: 7EC0562480D6B00
+- expected_values:
+    CMAXE_HVBAT_V: 286.7
+  response: 7EC0562480D6FFE
+- expected_values:
+    CMAXE_HVBAT_V: 304.3
+  response: |-
+    7EC0562480D76DE
+    7EC03410D03
+- expected_values:
+    CMAXE_HVBAT_V: 315.64
+  response: |-
+    7EC0562480D7B4C
+    7EC04410C0000
+- expected_values:
+    CMAXE_HVBAT_V: 324.2
+  response: |-
+    7EC0562480D7EA4
+    7EC04410C0000
+- expected_values:
+    CMAXE_HVBAT_V: 324.78
+  response: |-
+    7EC0562480D7EDE
+    7EC0341053C
+- expected_values:
+    CMAXE_HVBAT_V: 333.14
+  response: |-
+    7EC0562480D8222
+    7EC04410C0000
+- expected_values:
+    CMAXE_HVBAT_V: 337.66
+  response: |-
+    7EC0562480D83E6
+    7EC024300
+- expected_values:
+    CMAXE_HVBAT_V: 341.7
+  response: |-
+    7EC0562480D857A
+    7EC03410400
+- expected_values:
+    CMAXE_HVBAT_V: 343.72
+  response: 7EC0562480D8644

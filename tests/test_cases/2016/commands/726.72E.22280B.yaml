@@ -1,0 +1,57 @@
+command_id: 726.72E.22280B
+test_cases:
+- expected_values:
+    CMAXE_TYRE_T: 28
+  response: |-
+    72E100C62280B370D40
+    72E21E2021744062B00
+- expected_values:
+    CMAXE_TYRE_T: -40
+  response: |-
+    72E100C62280B374AD2
+    72E217C021700464E00
+- expected_values:
+    CMAXE_TYRE_T: 26
+  response: |-
+    72E100C62280B374AD2
+    72E217C024942059B00
+- expected_values:
+    CMAXE_TYRE_T: -40
+  response: |-
+    72E100C62280B374B15
+    72E213D029900466C00
+- expected_values:
+    CMAXE_TYRE_T: 36
+  response: |-
+    72E100C62280B374B15
+    72E213D02A84C46FE00
+- expected_values:
+    CMAXE_TYRE_T: 37
+  response: |-
+    72E100C62280B374B15
+    72E213D02AD4D460000
+- expected_values:
+    CMAXE_TYRE_T: 21
+  response: |-
+    72E100C62280B374B16
+    72E212402353D068000
+- expected_values:
+    CMAXE_TYRE_T: 39
+  response: |-
+    72E100C62280B374B16
+    72E212402804F06A100
+- expected_values:
+    CMAXE_TYRE_T: 47
+  response: |-
+    72E100C62280B374B16
+    72E212402AD5746F200
+- expected_values:
+    CMAXE_TYRE_T: 14
+  response: |-
+    72E100C62280B374B1E
+    72E217402803606E000
+- expected_values:
+    CMAXE_TYRE_T: 40
+  response: |-
+    72E100C62280B374B1E
+    72E217402CB50464900

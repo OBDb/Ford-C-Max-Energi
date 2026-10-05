@@ -1,0 +1,14 @@
+command_id: 7E4.7EC.224810|fc=1
+test_cases:
+- expected_values:
+    CMAXE_HVBAT_AGE: 86763.6
+  response: 7EC056248105E25
+- expected_values:
+    CMAXE_HVBAT_AGE: 89413.2
+  response: 7EC056248106105
+- expected_values:
+    CMAXE_HVBAT_AGE: 92088
+  response: 7EC0562481063EC
+- expected_values:
+    CMAXE_HVBAT_AGE: 93812.4
+  response: 7EC0562481065CB

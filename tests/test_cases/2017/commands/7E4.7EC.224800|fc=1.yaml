@@ -1,0 +1,43 @@
+command_id: 7E4.7EC.224800|fc=1
+test_cases:
+- expected_values:
+    CMAXE_HVBAT_T: 14
+  response: 7EC0462480040
+- expected_values:
+    CMAXE_HVBAT_T: 17
+  response: |-
+    7EC0462480043
+    7EC03410D1F
+- expected_values:
+    CMAXE_HVBAT_T: 17
+  response: |-
+    7EC0462480043
+    7EC06410100040000
+- expected_values:
+    CMAXE_HVBAT_T: 24
+  response: |-
+    7EC046248004A
+    7EC03410D25
+- expected_values:
+    CMAXE_HVBAT_T: 25
+  response: |-
+    7EC046248004B
+    7EC04410C0000
+- expected_values:
+    CMAXE_HVBAT_T: 26
+  response: |-
+    7EC046248004C
+    7EC0341053E
+- expected_values:
+    CMAXE_HVBAT_T: 30
+  response: |-
+    7EC0462480050
+    7EC03410D00
+- expected_values:
+    CMAXE_HVBAT_T: 33
+  response: |-
+    7EC0462480053
+    7EC04410C0000
+- expected_values:
+    CMAXE_HVBAT_T: 41
+  response: 7EC046248005B

@@ -1,0 +1,11 @@
+command_id: 7E4.7EC.224806
+test_cases:
+- expected_values:
+    CMAXE_CONTACTOR_V_NEGATIVE: 0
+  response: 7EC056248060000
+- expected_values:
+    CMAXE_CONTACTOR_V_NEGATIVE: 143.34
+  response: 7EC0562480637FE
+- expected_values:
+    CMAXE_CONTACTOR_V_NEGATIVE: 156.3
+  response: 7EC056248063D0E

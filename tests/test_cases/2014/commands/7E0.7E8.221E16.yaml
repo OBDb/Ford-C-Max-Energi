@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.221E16
+test_cases:
+- expected_values:
+    CMAXE_AXLE_GEAR_RATIO_MEAS: 0
+  response: 7E805621E160000
+- expected_values:
+    CMAXE_AXLE_GEAR_RATIO_MEAS: 1.78003
+  response: 7E805621E161C7B
+- expected_values:
+    CMAXE_AXLE_GEAR_RATIO_MEAS: 2.03442
+  response: 7E805621E16208D
+- expected_values:
+    CMAXE_AXLE_GEAR_RATIO_MEAS: 2.15674
+  response: 7E805621E162282
+- expected_values:
+    CMAXE_AXLE_GEAR_RATIO_MEAS: 3.98999
+  response: 7E805621E163FD7

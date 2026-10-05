@@ -1,0 +1,8 @@
+command_id: 726.72E.22DD04
+test_cases:
+- expected_values:
+    CMAXE_CAR_T: 6.75
+  response: 72E0462DD0436
+- expected_values:
+    CMAXE_CAR_T: 13.75
+  response: 72E0462DD046E

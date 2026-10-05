@@ -1,0 +1,44 @@
+command_id: 7E0.7E8.220307
+test_cases:
+- expected_values:
+    CMAXE_LPFP_DUTY: 38.40942
+  response: 7E805620307312A
+- expected_values:
+    CMAXE_LPFP_DUTY: 39.05945
+  response: 7E80562030731FF
+- expected_values:
+    CMAXE_LPFP_DUTY: 39.0625
+  response: '7E8056203073200'
+- expected_values:
+    CMAXE_LPFP_DUTY: 75
+  response: '7E8056203076000'
+- expected_values:
+    CMAXE_LPFP_DUTY: 75
+  response: |-
+    7E8056203076000
+    7E80341053D
+- expected_values:
+    CMAXE_LPFP_DUTY: 75
+  response: |-
+    7E8056203076000
+    7E803410D00
+- expected_values:
+    CMAXE_LPFP_DUTY: 75
+  response: |-
+    7E8056203076000
+    7E803410D24
+- expected_values:
+    CMAXE_LPFP_DUTY: 75
+  response: |-
+    7E8056203076000
+    7E80341112C
+- expected_values:
+    CMAXE_LPFP_DUTY: 75
+  response: |-
+    7E8056203076000
+    7E804410C0000
+- expected_values:
+    CMAXE_LPFP_DUTY: 75
+  response: |-
+    7E8056203076000
+    7E80441100047

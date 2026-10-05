@@ -1,0 +1,8 @@
+command_id: 7E4.7EC.22F45B
+test_cases:
+- expected_values:
+    CMAXE_HYBRID_BAT_PACK: 15.68627
+  response: 7EC0462F45B28
+- expected_values:
+    CMAXE_HYBRID_BAT_PACK: 60.39216
+  response: 7EC0462F45B9A

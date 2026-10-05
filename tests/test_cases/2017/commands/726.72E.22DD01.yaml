@@ -1,0 +1,17 @@
+command_id: 726.72E.22DD01
+test_cases:
+- expected_values:
+    CMAXE_ODO_726: 121342
+  response: 72E0662DD0101D9FE
+- expected_values:
+    CMAXE_ODO_726: 121343
+  response: 72E0662DD0101D9FF
+- expected_values:
+    CMAXE_ODO_726: 121344
+  response: 72E0662DD0101DA00
+- expected_values:
+    CMAXE_ODO_726: 128263
+  response: 72E0662DD0101F507
+- expected_values:
+    CMAXE_ODO_726: 188938
+  response: 72E0662DD0102E20A

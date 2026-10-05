@@ -1,0 +1,8 @@
+command_id: 7E4.7EC.22483E
+test_cases:
+- expected_values:
+    CMAXE_SOC_VARIATION_BAT: 0.808
+  response: 7EC0562483E0328
+- expected_values:
+    CMAXE_SOC_VARIATION_BAT: 2.863
+  response: 7EC0562483E0B2F

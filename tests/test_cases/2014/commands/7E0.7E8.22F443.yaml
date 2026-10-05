@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22F443
+test_cases:
+- expected_values:
+    CMAXE_ENG_LOAD_ACT: 0
+  response: 7E80562F4430000
+- expected_values:
+    CMAXE_ENG_LOAD_ACT: 14.5098
+  response: 7E80562F4430025
+- expected_values:
+    CMAXE_ENG_LOAD_ACT: 30.19608
+  response: 7E80562F443004D
+- expected_values:
+    CMAXE_ENG_LOAD_ACT: 33.72549
+  response: 7E80562F4430056

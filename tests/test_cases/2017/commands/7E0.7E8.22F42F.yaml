@@ -1,0 +1,72 @@
+command_id: 7E0.7E8.22F42F
+test_cases:
+- expected_values:
+    CMAXE_FLI_7E0_7E0: 0
+  response: 7E80462F42F00
+- expected_values:
+    CMAXE_FLI_7E0_7E0: 97.2549
+  response: |-
+    7E80462F42FF8
+    7E803410B5F
+- expected_values:
+    CMAXE_FLI_7E0_7E0: 97.2549
+  response: |-
+    7E80462F42FF8
+    7EC03410D00
+    7EE03410D01
+    7E803410D00
+- expected_values:
+    CMAXE_FLI_7E0_7E0: 98.03922
+  response: |-
+    7E80462F42FFA
+    7EC04410C0000
+    7EE04410C0000
+    7E804410C0000
+- expected_values:
+    CMAXE_FLI_7E0_7E0: 98.43137
+  response: |-
+    7E80462F42FFB
+    7EC03410535
+    7EE03410535
+    7E803410535
+- expected_values:
+    CMAXE_FLI_7E0_7E0: 99.21569
+  response: |-
+    7E80462F42FFD
+    7E803410B5F
+- expected_values:
+    CMAXE_FLI_7E0_7E0: 99.21569
+  response: |-
+    7E80462F42FFD
+    7EC03410D2E
+    7EE03410D2F
+    7E803410D2E
+- expected_values:
+    CMAXE_FLI_7E0_7E0: 99.21569
+  response: |-
+    7E80462F42FFD
+    7EC04410C0000
+    7E804410C0000
+    7EE04410C0000
+- expected_values:
+    CMAXE_FLI_7E0_7E0: 100
+  response: 7E80462F42FFF
+- expected_values:
+    CMAXE_FLI_7E0_7E0: 100
+  response: |-
+    7E80462F42FFF
+    7E804410C0000
+- expected_values:
+    CMAXE_FLI_7E0_7E0: 100
+  response: |-
+    7E80462F42FFF
+    7EC03410D00
+    7EE03410D00
+    7E803410D00
+- expected_values:
+    CMAXE_FLI_7E0_7E0: 100
+  response: |-
+    7E80462F42FFF
+    7EC04410C0000
+    7EE04410C0001
+    7E804410C0000

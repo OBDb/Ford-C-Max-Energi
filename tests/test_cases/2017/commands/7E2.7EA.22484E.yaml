@@ -1,0 +1,23 @@
+command_id: 7E2.7EA.22484E
+test_cases:
+- expected_values:
+    CMAXE_HIGH_V_CHARGER_INPUT: 0
+  response: 7EA0562484E0000
+- expected_values:
+    CMAXE_HIGH_V_CHARGER_INPUT: 250
+  response: 7EA0562484E00FA
+- expected_values:
+    CMAXE_HIGH_V_CHARGER_INPUT: 260
+  response: 7EA0562484E0104
+- expected_values:
+    CMAXE_HIGH_V_CHARGER_INPUT: 270
+  response: 7EA0562484E010E
+- expected_values:
+    CMAXE_HIGH_V_CHARGER_INPUT: 630
+  response: 7EA0562484E0276
+- expected_values:
+    CMAXE_HIGH_V_CHARGER_INPUT: 640
+  response: 7EA0562484E0280
+- expected_values:
+    CMAXE_HIGH_V_CHARGER_INPUT: 660
+  response: 7EA0562484E0294

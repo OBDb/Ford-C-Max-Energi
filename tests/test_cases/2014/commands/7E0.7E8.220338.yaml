@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.220338
+test_cases:
+- expected_values:
+    CMAXE_ETC_TRIM_LRN: 0
+  response: '7E8056203380000'
+- expected_values:
+    CMAXE_ETC_TRIM_LRN: 0.00586
+  response: '7E8056203380003'
+- expected_values:
+    CMAXE_ETC_TRIM_LRN: 0.01758
+  response: '7E8056203380009'
+- expected_values:
+    CMAXE_ETC_TRIM_LRN: 0.02148
+  response: 7E805620338000B
+- expected_values:
+    CMAXE_ETC_TRIM_LRN: 0.0332
+  response: '7E8056203380011'
+- expected_values:
+    CMAXE_ETC_TRIM_LRN: 0.11523
+  response: 7E805620338003B
+- expected_values:
+    CMAXE_ETC_TRIM_LRN: 0.1875
+  response: '7E8056203380060'
+- expected_values:
+    CMAXE_ETC_TRIM_LRN: 0.47266
+  response: 7E80562033800F2
+- expected_values:
+    CMAXE_ETC_TRIM_LRN: 0.56055
+  response: 7E805620338011F

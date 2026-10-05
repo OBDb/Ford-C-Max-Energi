@@ -1,0 +1,8 @@
+command_id: 7E2.7EA.224844
+test_cases:
+- expected_values:
+    CMAXE_HIGH_V_CHARGER_V_REQ: 0
+  response: 7EA0462484400
+- expected_values:
+    CMAXE_HIGH_V_CHARGER_V_REQ: 510
+  response: 7EA04624844FF

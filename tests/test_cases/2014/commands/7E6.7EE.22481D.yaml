@@ -1,0 +1,11 @@
+command_id: 7E6.7EE.22481D
+test_cases:
+- expected_values:
+    CMAXE_PRIMARY_MOTOR_V: 260.2
+  response: 7EE0562481D0A2A
+- expected_values:
+    CMAXE_PRIMARY_MOTOR_V: 282.8
+  response: 7EE0562481D0B0C
+- expected_values:
+    CMAXE_PRIMARY_MOTOR_V: 306
+  response: 7EE0562481D0BF4

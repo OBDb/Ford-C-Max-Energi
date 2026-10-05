@@ -1,0 +1,8 @@
+command_id: 7E6.7EE.22481F
+test_cases:
+- expected_values:
+    CMAXE_PRI_MOTOR_COIL_T: 65
+  response: 7EE0562481F0041
+- expected_values:
+    CMAXE_PRI_MOTOR_COIL_T: 79
+  response: 7EE0562481F004F

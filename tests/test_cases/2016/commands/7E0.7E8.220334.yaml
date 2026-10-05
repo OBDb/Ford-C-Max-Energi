@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220334
+test_cases:
+- expected_values:
+    CMAXE_PCM_CYL_HEAD_T_CORR: 15.89062
+  response: 7E80562033403F9
+- expected_values:
+    CMAXE_PCM_CYL_HEAD_T_CORR: 80
+  response: '7E8056203341400'
+- expected_values:
+    CMAXE_PCM_CYL_HEAD_T_CORR: 99.98438
+  response: 7E80562033418FF
+- expected_values:
+    CMAXE_PCM_CYL_HEAD_T_CORR: 100.03125
+  response: '7E8056203341902'

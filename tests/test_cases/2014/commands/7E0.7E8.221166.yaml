@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221166
+test_cases:
+- expected_values:
+    CMAXE_EVAP_PURGE_CMD: 0
+  response: '7E8056211660000'
+- expected_values:
+    CMAXE_EVAP_PURGE_CMD: 13.42163
+  response: 7E805621166112E
+- expected_values:
+    CMAXE_EVAP_PURGE_CMD: 28.03955
+  response: 7E80562116623E4
+- expected_values:
+    CMAXE_EVAP_PURGE_CMD: 42.95349
+  response: 7E80562116636FB

@@ -1,0 +1,14 @@
+command_id: 760.768.223302
+test_cases:
+- expected_values:
+    CMAXE_BCM_STEER_ANG_ACT: -295.4
+  response: 7680562330212EE
+- expected_values:
+    CMAXE_BCM_STEER_ANG_ACT: -10.8
+  response: 768056233021E0C
+- expected_values:
+    CMAXE_BCM_STEER_ANG_ACT: 13
+  response: 768056233021EFA
+- expected_values:
+    CMAXE_BCM_STEER_ANG_ACT: 355.3
+  response: 768056233022C59
