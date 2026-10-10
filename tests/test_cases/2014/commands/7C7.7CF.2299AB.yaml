@@ -1,0 +1,23 @@
+command_id: 7C7.7CF.2299AB
+test_cases:
+- expected_values:
+    CMAXE_AC_COMP_A: 0
+  response: 7CF056299AB0000
+- expected_values:
+    CMAXE_AC_COMP_A: 5.60015
+  response: 7CF056299AB072B
+- expected_values:
+    CMAXE_AC_COMP_A: 6.20136
+  response: 7CF056299AB07F0
+- expected_values:
+    CMAXE_AC_COMP_A: 6.39973
+  response: 7CF056299AB0831
+- expected_values:
+    CMAXE_AC_COMP_A: 6.60115
+  response: 7CF056299AB0873
+- expected_values:
+    CMAXE_AC_COMP_A: 6.79952
+  response: 7CF056299AB08B4
+- expected_values:
+    CMAXE_AC_COMP_A: 7.00095
+  response: 7CF056299AB08F6

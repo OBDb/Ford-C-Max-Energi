@@ -1,0 +1,17 @@
+command_id: 7E4.7EC.22DD04
+test_cases:
+- expected_values:
+    CMAXE_T_INSIDE_CAR: 62.6
+  response: 7EC0462DD0439
+- expected_values:
+    CMAXE_T_INSIDE_CAR: 64.4
+  response: 7EC0462DD043A
+- expected_values:
+    CMAXE_T_INSIDE_CAR: 66.2
+  response: 7EC0462DD043B
+- expected_values:
+    CMAXE_T_INSIDE_CAR: 68
+  response: 7EC0462DD043C
+- expected_values:
+    CMAXE_T_INSIDE_CAR: null
+  response: 7EC0462DD04FF

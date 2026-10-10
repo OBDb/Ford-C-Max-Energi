@@ -1,0 +1,11 @@
+command_id: 7E6.7EE.22DD05
+test_cases:
+- expected_values:
+    CMAXE_OUTSIDE_T: 75.2
+  response: 7EE0462DD0540
+- expected_values:
+    CMAXE_OUTSIDE_T: 77
+  response: 7EE0462DD0541
+- expected_values:
+    CMAXE_OUTSIDE_T: 78.8
+  response: 7EE0462DD0542

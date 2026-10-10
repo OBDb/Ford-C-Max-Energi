@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.229800
+test_cases:
+- expected_values:
+    CMAXE_AC_P_SENS_V: 0.92773
+  response: 7E80562980003B6
+- expected_values:
+    CMAXE_AC_P_SENS_V: 1.5
+  response: '7E8056298000600'
+- expected_values:
+    CMAXE_AC_P_SENS_V: 1.99805
+  response: 7E80562980007FE
+- expected_values:
+    CMAXE_AC_P_SENS_V: 2.27734
+  response: 7E805629800091C

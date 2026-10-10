@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22116B
+test_cases:
+- expected_values:
+    CMAXE_IGN_TIM_CYL1: 21.5
+  response: 7E80562116B0056
+- expected_values:
+    CMAXE_IGN_TIM_CYL1: 23.75
+  response: 7E80562116B005F
+- expected_values:
+    CMAXE_IGN_TIM_CYL1: -10
+  response: 7E80562116BFFD8
+- expected_values:
+    CMAXE_IGN_TIM_CYL1: -2.5
+  response: 7E80562116BFFF6

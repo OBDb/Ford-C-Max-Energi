@@ -1,0 +1,33 @@
+command_id: 7E4.7EC.22484F|fc=1
+test_cases:
+- expected_values:
+    CMAXE_CHRG_STATE: NOT_READY
+  response: 7EC0462484F00
+- expected_values:
+    CMAXE_CHRG_STATE: NOT_READY
+  response: |-
+    7EC0462484F00
+    7EC024300
+- expected_values:
+    CMAXE_CHRG_STATE: NOT_READY
+  response: |-
+    7EC0462484F00
+    7EC0341053E
+- expected_values:
+    CMAXE_CHRG_STATE: NOT_READY
+  response: |-
+    7EC0462484F00
+    7EC03410D00
+- expected_values:
+    CMAXE_CHRG_STATE: NOT_READY
+  response: |-
+    7EC0462484F00
+    7EC03410D13
+- expected_values:
+    CMAXE_CHRG_STATE: NOT_READY
+  response: |-
+    7EC0462484F00
+    7EC04410C0000
+- expected_values:
+    CMAXE_CHRG_STATE: READY
+  response: 7EC0462484F01

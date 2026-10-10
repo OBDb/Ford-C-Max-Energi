@@ -1,0 +1,14 @@
+command_id: 7E4.7EC.22480B
+test_cases:
+- expected_values:
+    CMAXE_HVBAT_CURRENT: 0.08
+  response: 7EC0562480B0004
+- expected_values:
+    CMAXE_HVBAT_CURRENT: 92.16
+  response: 7EC0562480B1200
+- expected_values:
+    CMAXE_HVBAT_CURRENT: -5.12
+  response: 7EC0562480BFF00
+- expected_values:
+    CMAXE_HVBAT_CURRENT: -0.02
+  response: 7EC0562480BFFFF

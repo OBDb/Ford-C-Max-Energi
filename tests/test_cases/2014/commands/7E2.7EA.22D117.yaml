@@ -1,0 +1,17 @@
+command_id: 7E2.7EA.22D117
+test_cases:
+- expected_values:
+    CMAXE_HIGH_V_AC_CHARGER_COUPLER_T: 82.4
+  response: 7EA0462D11744
+- expected_values:
+    CMAXE_HIGH_V_AC_CHARGER_COUPLER_T: 84.2
+  response: 7EA0462D11745
+- expected_values:
+    CMAXE_HIGH_V_AC_CHARGER_COUPLER_T: 86
+  response: 7EA0462D11746
+- expected_values:
+    CMAXE_HIGH_V_AC_CHARGER_COUPLER_T: 87.8
+  response: 7EA0462D11747
+- expected_values:
+    CMAXE_HIGH_V_AC_CHARGER_COUPLER_T: 89.6
+  response: 7EA0462D11748

@@ -1,0 +1,32 @@
+command_id: 760.768.22DD01
+test_cases:
+- expected_values:
+    CMAXE_ABS_ODO: 288617
+  response: 7680662DD01046769
+- expected_values:
+    CMAXE_ABS_ODO: 288618
+  response: 7680662DD0104676A
+- expected_values:
+    CMAXE_ABS_ODO: 288619
+  response: 7680662DD0104676B
+- expected_values:
+    CMAXE_ABS_ODO: 288620
+  response: 7680662DD0104676C
+- expected_values:
+    CMAXE_ABS_ODO: 288621
+  response: 7680662DD0104676D
+- expected_values:
+    CMAXE_ABS_ODO: 288622
+  response: 7680662DD0104676E
+- expected_values:
+    CMAXE_ABS_ODO: 288623
+  response: 7680662DD0104676F
+- expected_values:
+    CMAXE_ABS_ODO: 288625
+  response: 7680662DD01046771
+- expected_values:
+    CMAXE_ABS_ODO: 288626
+  response: 7680662DD01046772
+- expected_values:
+    CMAXE_ABS_ODO: 288627
+  response: 7680662DD01046773

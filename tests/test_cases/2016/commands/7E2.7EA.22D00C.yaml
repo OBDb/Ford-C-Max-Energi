@@ -1,0 +1,8 @@
+command_id: 7E2.7EA.22D00C
+test_cases:
+- expected_values:
+    CMAXE_HIGH_V_DC_CHARGER_T: 62.6
+  response: 7EA0462D00C39
+- expected_values:
+    CMAXE_HIGH_V_DC_CHARGER_T: 120.2
+  response: 7EA0462D00C59

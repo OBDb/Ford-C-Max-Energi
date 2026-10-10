@@ -1,0 +1,29 @@
+command_id: 726.72E.224090
+test_cases:
+- expected_values:
+    CMAXE_BAT_CURRENT_726: -12.2
+  response: 72E056240901F38
+- expected_values:
+    CMAXE_BAT_CURRENT_726: -10.0125
+  response: 72E056240901F5B
+- expected_values:
+    CMAXE_BAT_CURRENT_726: -7.95
+  response: 72E056240901F7C
+- expected_values:
+    CMAXE_BAT_CURRENT_726: -7.7625
+  response: 72E056240901F7F
+- expected_values:
+    CMAXE_BAT_CURRENT_726: -7.7
+  response: 72E056240901F80
+- expected_values:
+    CMAXE_BAT_CURRENT_726: -7.6375
+  response: 72E056240901F81
+- expected_values:
+    CMAXE_BAT_CURRENT_726: 0.3625
+  response: '72E056240902001'
+- expected_values:
+    CMAXE_BAT_CURRENT_726: 0.425
+  response: '72E056240902002'
+- expected_values:
+    CMAXE_BAT_CURRENT_726: 0.4875
+  response: '72E056240902003'

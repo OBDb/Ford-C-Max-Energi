@@ -1,0 +1,11 @@
+command_id: 7E6.7EE.221E2C
+test_cases:
+- expected_values:
+    CMAXE_PRI_MOTOR_RPM: 0
+  response: 7EE05621E2C0000
+- expected_values:
+    CMAXE_PRI_MOTOR_RPM: 6911
+  response: 7EE05621E2C1AFF
+- expected_values:
+    CMAXE_PRI_MOTOR_RPM: 7452
+  response: 7EE05621E2C1D1C

@@ -1,0 +1,14 @@
+command_id: 760.768.222B0D
+test_cases:
+- expected_values:
+    CMAXE_BRK_FL_P: 0
+  response: 76805622B0D0000
+- expected_values:
+    CMAXE_BRK_FL_P: 1
+  response: 76805622B0D0001
+- expected_values:
+    CMAXE_BRK_FL_P: 41
+  response: 76805622B0D0029
+- expected_values:
+    CMAXE_BRK_FL_P: 57
+  response: 76805622B0D0039

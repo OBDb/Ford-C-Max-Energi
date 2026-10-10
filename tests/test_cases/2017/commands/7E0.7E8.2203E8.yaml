@@ -1,0 +1,39 @@
+command_id: 7E0.7E8.2203E8
+test_cases:
+- expected_values:
+    CMAXE_OAR: 0.13635
+  response: 7E8056203E808BA
+- expected_values:
+    CMAXE_OAR: 0.37384
+  response: 7E8056203E817ED
+- expected_values:
+    CMAXE_OAR: 0
+  response: |-
+    7E8056203E8D729
+    7E80341053A
+- expected_values:
+    CMAXE_OAR: 0
+  response: |-
+    7E8056203E8D729
+    7E803410B5F
+- expected_values:
+    CMAXE_OAR: 0
+  response: |-
+    7E8056203E8D729
+    7E803410D00
+- expected_values:
+    CMAXE_OAR: 0
+  response: |-
+    7E8056203E8D729
+    7E803410D33
+- expected_values:
+    CMAXE_OAR: 0
+  response: |-
+    7E8056203E8D729
+    7E804410C0000
+- expected_values:
+    CMAXE_OAR: 0
+  response: 7E8056203E8EB05
+- expected_values:
+    CMAXE_OAR: 0
+  response: 7E8056203E8F14E

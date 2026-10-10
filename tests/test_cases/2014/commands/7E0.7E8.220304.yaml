@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220304
+test_cases:
+- expected_values:
+    CMAXE_CMD_GEN_V: 13.69182
+  response: 7E8056203046D99
+- expected_values:
+    CMAXE_CMD_GEN_V: 14.6156
+  response: 7E80562030474FE
+- expected_values:
+    CMAXE_CMD_GEN_V: 14.61658
+  response: '7E8056203047500'

@@ -1,0 +1,29 @@
+command_id: 7E4.7EC.224852
+test_cases:
+- expected_values:
+    CMAXE_BAT_DCHG_POWER_LIM: 20
+  response: 7EC0462485214
+- expected_values:
+    CMAXE_BAT_DCHG_POWER_LIM: 26
+  response: 7EC046248521A
+- expected_values:
+    CMAXE_BAT_DCHG_POWER_LIM: 35
+  response: 7EC0462485223
+- expected_values:
+    CMAXE_BAT_DCHG_POWER_LIM: 43
+  response: 7EC046248522B
+- expected_values:
+    CMAXE_BAT_DCHG_POWER_LIM: 60
+  response: 7EC046248523C
+- expected_values:
+    CMAXE_BAT_DCHG_POWER_LIM: 61
+  response: 7EC046248523D
+- expected_values:
+    CMAXE_BAT_DCHG_POWER_LIM: 62
+  response: 7EC046248523E
+- expected_values:
+    CMAXE_BAT_DCHG_POWER_LIM: 63
+  response: 7EC046248523F
+- expected_values:
+    CMAXE_BAT_DCHG_POWER_LIM: 64
+  response: 7EC0462485240

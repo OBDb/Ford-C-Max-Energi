@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F446
+test_cases:
+- expected_values:
+    CMAXE_AAT_7E0: 27
+  response: 7E80462F44643
+- expected_values:
+    CMAXE_AAT_7E0: 28
+  response: 7E80462F44644

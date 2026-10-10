@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22F40C
+test_cases:
+- expected_values:
+    CMAXE_RPM: 0
+  response: 7E80562F40C0000
+- expected_values:
+    CMAXE_RPM: 1307
+  response: 7E80562F40C146C
+- expected_values:
+    CMAXE_RPM: 1500
+  response: 7E80562F40C1770
+- expected_values:
+    CMAXE_RPM: 1736
+  response: 7E80562F40C1B20

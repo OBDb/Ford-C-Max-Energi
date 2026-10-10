@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220307
+test_cases:
+- expected_values:
+    CMAXE_LPFP_DUTY: 39.42261
+  response: '7E8056203073276'
+- expected_values:
+    CMAXE_LPFP_DUTY: 39.8407
+  response: 7E80562030732FF
+- expected_values:
+    CMAXE_LPFP_DUTY: 39.84375
+  response: '7E8056203073300'
+- expected_values:
+    CMAXE_LPFP_DUTY: 75
+  response: '7E8056203076000'

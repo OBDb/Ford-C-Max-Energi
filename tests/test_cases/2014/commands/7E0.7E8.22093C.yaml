@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.22093C
+test_cases:
+- expected_values:
+    CMAXE_ETC_ANG_ACT: 5.08398
+  response: 7E80562093C0A2B
+- expected_values:
+    CMAXE_ETC_ANG_ACT: 7.07227
+  response: 7E80562093C0E25
+- expected_values:
+    CMAXE_ETC_ANG_ACT: 7.07422
+  response: 7E80562093C0E26
+- expected_values:
+    CMAXE_ETC_ANG_ACT: 7.08203
+  response: 7E80562093C0E2A
+- expected_values:
+    CMAXE_ETC_ANG_ACT: 7.0918
+  response: 7E80562093C0E2F
+- expected_values:
+    CMAXE_ETC_ANG_ACT: 7.15234
+  response: 7E80562093C0E4E
+- expected_values:
+    CMAXE_ETC_ANG_ACT: 7.16211
+  response: 7E80562093C0E53
+- expected_values:
+    CMAXE_ETC_ANG_ACT: 14.54883
+  response: 7E80562093C1D19

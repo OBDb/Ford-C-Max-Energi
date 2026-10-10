@@ -1,0 +1,14 @@
+command_id: 7E4.7EC.224805
+test_cases:
+- expected_values:
+    CMAXE_CONTACTOR_V_POSITIVE: 0.05
+  response: 7EC056248050005
+- expected_values:
+    CMAXE_CONTACTOR_V_POSITIVE: 151.04
+  response: 7EC056248053B00
+- expected_values:
+    CMAXE_CONTACTOR_V_POSITIVE: 153.58
+  response: 7EC056248053BFE
+- expected_values:
+    CMAXE_CONTACTOR_V_POSITIVE: 168.98
+  response: 7EC056248054202

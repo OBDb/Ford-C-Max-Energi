@@ -1,0 +1,11 @@
+command_id: 7E2.7EA.22480D
+test_cases:
+- expected_values:
+    CMAXE_HVB_V_RAW_CNT: 27350
+  response: 7EA0562480D6AD6
+- expected_values:
+    CMAXE_HVB_V_RAW_CNT: 29700
+  response: 7EA0562480D7404
+- expected_values:
+    CMAXE_HVB_V_RAW_CNT: null
+  response: 7EA0562480DFFFF

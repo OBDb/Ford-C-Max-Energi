@@ -1,0 +1,8 @@
+command_id: 7E2.7EA.22DD04
+test_cases:
+- expected_values:
+    CMAXE_IAT: 14
+  response: 7EA0462DD0436
+- expected_values:
+    CMAXE_IAT: null
+  response: 7EA0462DD04FF

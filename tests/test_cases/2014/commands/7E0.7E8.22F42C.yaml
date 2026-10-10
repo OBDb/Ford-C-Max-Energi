@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F42C
+test_cases:
+- expected_values:
+    CMAXE_EGR: 0
+  response: 7E80462F42C00
+- expected_values:
+    CMAXE_EGR: 39
+  response: 7E80462F42C27
+- expected_values:
+    CMAXE_EGR: 100
+  response: 7E80462F42C7A

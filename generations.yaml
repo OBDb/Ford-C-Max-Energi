@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Ford_C-Max"
+
+generations:
+  - name: "Second Generation C-Max Energi"
+    start_year: 2013
+    end_year: 2018
+    description: "The plug-in hybrid version of the second-generation C-Max, sold in North America from model year 2013 to 2018. It pairs a 2.0-liter Atkinson-cycle four-cylinder with an electric motor and a 7.6 kWh lithium-ion battery, using the same powertrain as the Fusion Energi."

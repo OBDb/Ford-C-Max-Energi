@@ -1,0 +1,33 @@
+command_id: 7E0.7E8.220353
+test_cases:
+- expected_values:
+    CMAXE_BARO: 13.70453
+  response: 7E805620353017A
+- expected_values:
+    CMAXE_BARO: 13.74079
+  response: |-
+    7E805620353017B
+    7E804410C0000
+- expected_values:
+    CMAXE_BARO: 13.8133
+  response: |-
+    7E805620353017D
+    7E803410B5F
+- expected_values:
+    CMAXE_BARO: 13.84955
+  response: |-
+    7E805620353017E
+    7E803410536
+- expected_values:
+    CMAXE_BARO: 13.84955
+  response: |-
+    7E805620353017E
+    7E803410D27
+- expected_values:
+    CMAXE_BARO: 13.92207
+  response: |-
+    7E8056203530180
+    7E80441100047
+- expected_values:
+    CMAXE_BARO: 14.86471
+  response: 7E805620353019A

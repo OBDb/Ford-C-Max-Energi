@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221126
+test_cases:
+- expected_values:
+    CMAXE_ERT: 0
+  response: '7E80462112600'
+- expected_values:
+    CMAXE_ERT: 11
+  response: 7E8046211260B
+- expected_values:
+    CMAXE_ERT: 41
+  response: '7E80462112629'
+- expected_values:
+    CMAXE_ERT: 74
+  response: 7E8046211264A

@@ -1,0 +1,36 @@
+command_id: 7E0.7E8.220316
+test_cases:
+- expected_values:
+    CMAXE_VCT_INT_DUTY: 0
+  response: '7E8056203160000'
+- expected_values:
+    CMAXE_VCT_INT_DUTY: 0
+  response: |-
+    7E8056203160000
+    7E80341053F
+- expected_values:
+    CMAXE_VCT_INT_DUTY: 0
+  response: |-
+    7E8056203160000
+    7E803410D00
+- expected_values:
+    CMAXE_VCT_INT_DUTY: 0
+  response: |-
+    7E8056203160000
+    7E803410D11
+- expected_values:
+    CMAXE_VCT_INT_DUTY: 0
+  response: |-
+    7E8056203160000
+    7E80341112C
+- expected_values:
+    CMAXE_VCT_INT_DUTY: 0
+  response: |-
+    7E8056203160000
+    7E804410C0000
+- expected_values:
+    CMAXE_VCT_INT_DUTY: 35.93445
+  response: 7E8056203162DFF
+- expected_values:
+    CMAXE_VCT_INT_DUTY: 79.99878
+  response: '7E8056203166666'

@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220393
+test_cases:
+- expected_values:
+    CMAXE_AC_P: 72.2288
+  response: 7E80562039300F9
+- expected_values:
+    CMAXE_AC_P: 74.25933
+  response: '7E8056203930100'
+- expected_values:
+    CMAXE_AC_P: 222.48791
+  response: 7E80562039302FF
+- expected_values:
+    CMAXE_AC_P: 223.06806
+  response: '7E8056203930301'

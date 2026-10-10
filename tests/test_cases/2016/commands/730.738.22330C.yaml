@@ -1,0 +1,8 @@
+command_id: 730.738.22330C
+test_cases:
+- expected_values:
+    CMAXE_STEER_SHFT_TQ: -3.8
+  response: 7380462330C59
+- expected_values:
+    CMAXE_STEER_SHFT_TQ: 3.5
+  response: 7380462330CA2

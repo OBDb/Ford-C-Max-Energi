@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22F431
+test_cases:
+- expected_values:
+    CMAXE_DIST_DTC_CLR: 13
+  response: 7E80562F431000D
+- expected_values:
+    CMAXE_DIST_DTC_CLR: 20480
+  response: 7E80562F4315000
+- expected_values:
+    CMAXE_DIST_DTC_CLR: 20735
+  response: 7E80562F43150FF
+- expected_values:
+    CMAXE_DIST_DTC_CLR: 23318
+  response: 7E80562F4315B16

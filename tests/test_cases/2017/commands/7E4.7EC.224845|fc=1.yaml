@@ -1,0 +1,38 @@
+command_id: 7E4.7EC.224845|fc=1
+test_cases:
+- expected_values:
+    CMAXE_HVBAT_SOC_DISP: 0
+  response: 7EC0462484500
+- expected_values:
+    CMAXE_HVBAT_SOC_DISP: 55
+  response: |-
+    7EC046248456E
+    7EC04410C0000
+- expected_values:
+    CMAXE_HVBAT_SOC_DISP: 66
+  response: |-
+    7EC0462484584
+    7EC03410D17
+- expected_values:
+    CMAXE_HVBAT_SOC_DISP: 100
+  response: 7EC04624845C8
+- expected_values:
+    CMAXE_HVBAT_SOC_DISP: 100
+  response: |-
+    7EC04624845C8
+    7EC03410D15
+- expected_values:
+    CMAXE_HVBAT_SOC_DISP: 100
+  response: |-
+    7EC04624845C8
+    7EC03410D1C
+- expected_values:
+    CMAXE_HVBAT_SOC_DISP: 100
+  response: |-
+    7EC04624845C8
+    7EC03410D28
+- expected_values:
+    CMAXE_HVBAT_SOC_DISP: 100
+  response: |-
+    7EC04624845C8
+    7EC04410C0000

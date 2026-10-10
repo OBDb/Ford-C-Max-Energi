@@ -1,0 +1,62 @@
+command_id: 7E6.7EE.221E1C
+test_cases:
+- expected_values:
+    CMAXE_TT: 38.5625
+  response: |-
+    7EC03410D0E
+    7EE05621E1C0269
+- expected_values:
+    CMAXE_TT: 12.5
+  response: |-
+    7EE05621E1C00C8
+    7EC03410D06
+    7EE03410D07
+    7E803410D06
+- expected_values:
+    CMAXE_TT: 12.5625
+  response: 7EE05621E1C00C9
+- expected_values:
+    CMAXE_TT: 16
+  response: 7EE05621E1C0100
+- expected_values:
+    CMAXE_TT: 20
+  response: |-
+    7EE05621E1C0140
+    7E803410D25
+    7EC03410D25
+    7EE03410D25
+- expected_values:
+    CMAXE_TT: 20
+  response: |-
+    7EE05621E1C0140
+    7EC04410C0000
+    7EE04410C0000
+    7E804410C0000
+- expected_values:
+    CMAXE_TT: 21.0625
+  response: |-
+    7EE05621E1C0151
+    7EC0341053E
+    7EE0341053E
+    7E80341053E
+- expected_values:
+    CMAXE_TT: 22
+  response: |-
+    7EE05621E1C0160
+    7E80341112C
+- expected_values:
+    CMAXE_TT: 22.375
+  response: |-
+    7EE05621E1C0166
+    7E803410F42
+- expected_values:
+    CMAXE_TT: 31.9375
+  response: 7EE05621E1C01FF
+- expected_values:
+    CMAXE_TT: 32.25
+  response: |-
+    7EE05621E1C0204
+    7E803410B60
+- expected_values:
+    CMAXE_TT: 64
+  response: 7EE05621E1C0400

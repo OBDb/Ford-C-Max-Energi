@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22033D
+test_cases:
+- expected_values:
+    CMAXE_MASS_AIRFLOW_SENS: 680.75
+  response: 7E80562033D0AA3
+- expected_values:
+    CMAXE_MASS_AIRFLOW_SENS: 703.5
+  response: 7E80562033D0AFE
+- expected_values:
+    CMAXE_MASS_AIRFLOW_SENS: 704.75
+  response: 7E80562033D0B03
+- expected_values:
+    CMAXE_MASS_AIRFLOW_SENS: 5762
+  response: 7E80562033D5A08

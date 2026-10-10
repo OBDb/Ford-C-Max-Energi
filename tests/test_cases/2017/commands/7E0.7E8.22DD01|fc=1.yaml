@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22DD01|fc=1
+test_cases:
+- expected_values:
+    CMAXE_ODO_7E0: 121343
+  response: 7E80662DD0101D9FF
+- expected_values:
+    CMAXE_ODO_7E0: 121344
+  response: 7E80662DD0101DA00
+- expected_values:
+    CMAXE_ODO_7E0: 128263
+  response: 7E80662DD0101F507
+- expected_values:
+    CMAXE_ODO_7E0: 188938
+  response: 7E80662DD0102E20A

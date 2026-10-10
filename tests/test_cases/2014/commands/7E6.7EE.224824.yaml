@@ -1,0 +1,29 @@
+command_id: 7E6.7EE.224824
+test_cases:
+- expected_values:
+    CMAXE_PRI_MOTOR_INV_T: 40
+  response: 7EE056248240028
+- expected_values:
+    CMAXE_PRI_MOTOR_INV_T: 42
+  response: 7EE05624824002A
+- expected_values:
+    CMAXE_PRI_MOTOR_INV_T: 43
+  response: 7EE05624824002B
+- expected_values:
+    CMAXE_PRI_MOTOR_INV_T: 44
+  response: 7EE05624824002C
+- expected_values:
+    CMAXE_PRI_MOTOR_INV_T: 45
+  response: 7EE05624824002D
+- expected_values:
+    CMAXE_PRI_MOTOR_INV_T: 48
+  response: 7EE056248240030
+- expected_values:
+    CMAXE_PRI_MOTOR_INV_T: 49
+  response: 7EE056248240031
+- expected_values:
+    CMAXE_PRI_MOTOR_INV_T: 50
+  response: 7EE056248240032
+- expected_values:
+    CMAXE_PRI_MOTOR_INV_T: 53
+  response: 7EE056248240035

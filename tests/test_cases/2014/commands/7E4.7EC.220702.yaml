@@ -1,0 +1,8 @@
+command_id: 7E4.7EC.220702
+test_cases:
+- expected_values:
+    CMAXE_FAN_SPD_INDICATED: 975
+  response: 7EC0462070227
+- expected_values:
+    CMAXE_FAN_SPD_INDICATED: 2175
+  response: 7EC0462070257
