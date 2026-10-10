@@ -7,8 +7,8 @@ test_cases:
     CMAXE_FAN_SPD_DES: 22.68101
   response: 7E8056203B91D08
 - expected_values:
-    CMAXE_FAN_SPD_DES: 35.12322
-  response: 7E8056203B92CF5
+    CMAXE_FAN_SPD_DES: 30.46616
+  response: 7E8056203B926FF
 - expected_values:
     CMAXE_FAN_SPD_DES: 84.70893
   response: 7E8056203B96C6D

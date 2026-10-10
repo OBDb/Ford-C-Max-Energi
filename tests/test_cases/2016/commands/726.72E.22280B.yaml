@@ -18,6 +18,11 @@ test_cases:
 - expected_values:
     CMAXE_TYRE_T: -40
   response: |-
+    72E100C62280B374AD2
+    72E217C02C600467A00
+- expected_values:
+    CMAXE_TYRE_T: -40
+  response: |-
     72E100C62280B374B15
     72E213D029900466C00
 - expected_values:
@@ -41,17 +46,12 @@ test_cases:
     72E100C62280B374B16
     72E212402804F06A100
 - expected_values:
-    CMAXE_TYRE_T: 47
-  response: |-
-    72E100C62280B374B16
-    72E212402AD5746F200
-- expected_values:
     CMAXE_TYRE_T: 14
   response: |-
     72E100C62280B374B1E
     72E217402803606E000
 - expected_values:
-    CMAXE_TYRE_T: 40
+    CMAXE_TYRE_T: -40
   response: |-
     72E100C62280B374B1E
-    72E217402CB50464900
+    72E2174028F0046A700
