@@ -10,5 +10,11 @@ test_cases:
     CMAXE_ABS_ODO: 121344
   response: 7680662DD0101DA00
 - expected_values:
+    CMAXE_ABS_ODO: 124673
+  response: 7680662DD0101E701
+- expected_values:
+    CMAXE_ABS_ODO: 188938
+  response: 7680662DD0102E20A
+- expected_values:
     CMAXE_ABS_ODO: null
   response: 7680662DD01FFFFFF
