@@ -4,5 +4,8 @@ test_cases:
     CMAXE_IAT: 14
   response: 7EA0462DD0436
 - expected_values:
+    CMAXE_IAT: 49
+  response: 7EA0462DD0459
+- expected_values:
     CMAXE_IAT: null
   response: 7EA0462DD04FF

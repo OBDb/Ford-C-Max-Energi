@@ -7,5 +7,11 @@ test_cases:
     CMAXE_HVB_V_RAW_CNT: 29700
   response: 7EA0562480D7404
 - expected_values:
+    CMAXE_HVB_V_RAW_CNT: 29950
+  response: 7EA0562480D74FE
+- expected_values:
+    CMAXE_HVB_V_RAW_CNT: 30750
+  response: 7EA0562480D781E
+- expected_values:
     CMAXE_HVB_V_RAW_CNT: null
   response: 7EA0562480DFFFF
