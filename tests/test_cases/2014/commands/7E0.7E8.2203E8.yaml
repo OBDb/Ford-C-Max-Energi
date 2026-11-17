@@ -7,14 +7,14 @@ test_cases:
     CMAXE_OAR: 0.05676
   response: 7E8056203E803A2
 - expected_values:
-    CMAXE_OAR: 0
+    CMAXE_OAR: -0.28571
   response: 7E8056203E8EDB7
 - expected_values:
-    CMAXE_OAR: 0
+    CMAXE_OAR: -0.23077
   response: 7E8056203E8F13B
 - expected_values:
-    CMAXE_OAR: 0
+    CMAXE_OAR: -0.18671
   response: 7E8056203E8F40D
 - expected_values:
-    CMAXE_OAR: 0
+    CMAXE_OAR: -0.08282
   response: 7E8056203E8FAB3
