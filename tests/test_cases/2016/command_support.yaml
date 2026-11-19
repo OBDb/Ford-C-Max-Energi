@@ -52,6 +52,7 @@ supported_commands_by_ecu:
   - 7D0.7D8.228012:CMAXE_SYNC_GPS_ALTITUDE,CMAXE_SYNC_GPS_HEADING,CMAXE_SYNC_GPS_SPD
   "7DF":
   - 7DF.0105
+  - 7DF.0106
   - 7DF.010C
   - 7DF.0110
   - 7DF.012F
@@ -108,6 +109,7 @@ supported_commands_by_ecu:
   - 7E0.0105:ECT
   - 7E0.0106:SHRTFT1
   - 7E0.010C:RPM
+  - 7E0.010D:VSS
   - 7E0.0110:MAF
   - 7E0.0111:TP
   - 7E0.012F:FLI
@@ -218,6 +220,7 @@ supported_commands_by_ecu:
   - 0142:VPWR
   - 0149:APP_D
   - 015B:BAT_SOC
+  - 7E4.7EC.0104
   - 7E4.7EC.0105
   - 7E4.7EC.010C
   - 7E4.7EC.0131
