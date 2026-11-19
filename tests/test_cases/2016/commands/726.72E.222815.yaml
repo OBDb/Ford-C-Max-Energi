@@ -4,5 +4,5 @@ test_cases:
     CMAXE_TP_RRO: 29.75
   response: '72E056228150253'
 - expected_values:
-    CMAXE_TP_RRO: 36.45
-  response: 72E0562281502D9
+    CMAXE_TP_RRO: 38.05
+  response: 72E0562281502F9
