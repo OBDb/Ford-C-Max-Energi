@@ -7,8 +7,8 @@ test_cases:
     CMAXE_HVBAT_CURRENT: 92.16
   response: 7EC0562480B1200
 - expected_values:
+    CMAXE_HVBAT_CURRENT: -15.38
+  response: 7EC0562480BFCFF
+- expected_values:
     CMAXE_HVBAT_CURRENT: -5.12
   response: 7EC0562480BFF00
-- expected_values:
-    CMAXE_HVBAT_CURRENT: -0.02
-  response: 7EC0562480BFFFF
