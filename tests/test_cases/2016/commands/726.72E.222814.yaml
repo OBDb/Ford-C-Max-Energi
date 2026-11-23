@@ -1,11 +1,11 @@
 command_id: 726.72E.222814
 test_cases:
 - expected_values:
-    CMAXE_TP_FR: 23.3
-  response: 72E0562281401D2
+    CMAXE_TP_FR: 22.65
+  response: 72E0562281401C5
+- expected_values:
+    CMAXE_TP_FR: 24.3
+  response: 72E0562281401E6
 - expected_values:
     CMAXE_TP_FR: 26.55
   response: '72E056228140213'
-- expected_values:
-    CMAXE_TP_FR: 36.95
-  response: 72E0562281402E3
