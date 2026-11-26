@@ -271,6 +271,7 @@ supported_commands_by_ecu:
   - 0131:CLR_DIST
   - 0142:VPWR
   - 0149:APP_D
+  - 7E6.7EE.0104
   - 7E6.7EE.0105
   - 7E6.7EE.010C
   - 7E6.7EE.0131
