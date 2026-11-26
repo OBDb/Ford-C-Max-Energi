@@ -7,5 +7,5 @@ test_cases:
     CMAXE_TP_FR: 24.3
   response: 72E0562281401E6
 - expected_values:
-    CMAXE_TP_FR: 26.55
-  response: '72E056228140213'
+    CMAXE_TP_FR: 25.95
+  response: '72E056228140207'
